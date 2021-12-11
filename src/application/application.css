@@ -1,0 +1,47 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+    -fx-font-family: "Courier New";
+    -fx-font-size: 18;
+}
+
+.college-name{
+	-fx-font-size: 30;
+	-fx-font-weight: bold;
+}
+
+.question-number{
+	-fx-font-size: 25;
+	-fx-font-family: Verdana;
+}
+
+.question-content{
+	-fx-font-size: 22;
+}
+
+.ans-bookmarked{
+	-fx-background-color: blue;
+}
+
+.bookmarked{
+	-fx-background-color: purple;
+}
+
+.answered{
+	-fx-background-color: green;
+}
+
+.un-answered{
+	-fx-background-color: red;
+}
+
+.marks{
+	-fx-background-color: lime;
+	-fx-border-radius: 30 30 30 30; 
+	-fx-background-radius: 30 30 30 30;
+    -fx-border-width: 0;
+}
+
+
+
+
+
